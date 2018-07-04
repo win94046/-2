@@ -1,7 +1,6 @@
 作業2 是這次的功課
 
 程式說明:
-
 1.
   from keras.datasets import mnist
 
